@@ -1,12 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>swupl情报</title><link>https://changedetection.io</link><description>Feed description</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 12 Feb 2026 03:37:29 +0000</lastBuildDate><item><title>公告-南方医科大学学生处</title><link>https://yzy-lex.github.io/changedetection-rss-relay-feed/</link><description>&lt;pre&gt;公告-南方医科大学学生处 had a change.
-
-(changed) 251
-(into) 253
-(changed) 500
-(into) 502
-(changed) 5182
-(into) 5183
-(changed) 386
-(into) 387
-&lt;/pre&gt;</description><guid isPermaLink="false">0b731a0e-2238-4f9c-b21c-dc1eb8f68bd9/1770863290</guid><category>owm-migrated</category><category>2-1 西南政法大学</category><pubDate>Thu, 12 Feb 2026 10:28:10 +0000</pubDate></item></channel></rss>
+<rss version="2.0"><channel><title>swupl情报</title><link>https://changedetection.io</link><description>Feed description</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 12 Feb 2026 04:01:39 +0000</lastBuildDate></channel></rss>
